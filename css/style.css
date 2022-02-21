@@ -25,15 +25,15 @@
         size of the image-caption */
         #caption {
             font-size: 17px;
-            font-family: Gill Sans;
+            font-family:sans-serif
             color: black;
         }
 
         /* Styling the content of the page like-
         padding, font-size, font color etc.*/
-        div#tribute-data {
+        #tribute-data {
             background-color: rgb(46, 139, 87, 0.25);
-            box-shadow: 20px 20px 20px #98FB98;
+            box-shadow: 20px 20px 20px #b0f1b0;
             font-family: Georgia;
             padding: 25px 25px;
             margin: 11px;
@@ -45,7 +45,7 @@
             font-size: 35px;
             color: white;
             text-align: center;
-            text-shadow: 5px 5px 10px black;
+            text-shadow: 5px 5px 10px rgb(14, 12, 12);
         }
  
         /* Styling the link provided at the end */
